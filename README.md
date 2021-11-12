@@ -1,7 +1,7 @@
 # RuoYi-Uniapp（若依-手机端）
 
 #### 介绍
-    若依-Ruoyi APP 移动解决方案，基于 uniapp+uView 封装的一套基础模版，开箱即用，一份代码多终端适配，支持H5+支付宝小程序+微信小程序+APP，实现了与ruoyi-vue后台完美对接的移动解决方案，可直接开始快速开发业务需求，全新UI设计，更多交互细节，我们将为您提供极致的交互体验体验，持续推出高质量的交互产品。
+&nbsp; &nbsp; 若依-Ruoyi APP 移动解决方案，基于 uniapp+uView 封装的一套基础模版，开箱即用，一份代码多终端适配，支持H5+支付宝小程序+微信小程序+APP，实现了与ruoyi-vue后台完美对接的移动解决方案，可直接开始快速开发业务需求，全新UI设计，更多交互细节，我们将为您提供极致的交互体验体验，持续推出高质量的交互产品。
 
     如果对您有帮助，您可以点右上角 “Star” 收藏一下 ，获取第一时间更新，谢谢！
 
@@ -38,7 +38,7 @@
     5. 打开微信开发者工具 导入 打包完成的项目
     6. 检查没有运行错误，在右上方上传小程序
 
-## uniapp知识
+#### uniapp知识
 
 1. <a href="https://uniapp.dcloud.io/README" target="blank">uni-app介绍</a>
 2. <a href="https://ke.qq.com/course/3169971" target="blank">uni-app 官方视频教程</a>
@@ -46,7 +46,7 @@
 4. <a href="http://ask.dcloud.net.cn/article/35657" target="blank">uni-app是什么？能解决什么问题</a>
 5. <a href="https://uniapp.dcloud.io/vue-basics" target="blank">Vue.js相关文档、视频教程</a>
 
-## 技术手册
+#### 技术手册
 
 * <a href="https://uniapp.dcloud.io/collocation/pages" target="blank">uni-app 框架文档</a>
 * <a href="https://uniapp.dcloud.io/component/README" target="blank">uni-app 组件文档</a>
@@ -70,8 +70,8 @@
    我们擅长UI、前端开发、后端架构，有一颗热爱开源的心，致力于打造企业级的通用产品设计UI体系让项目
 或者更直观，更高效、更简单，未来将持续关注UI交互，持续推出高质量的交互产品。
 ######
-<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
-<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
+<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >&nbsp; &nbsp; &nbsp; 
+<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >&nbsp; &nbsp; &nbsp; 
 <img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
 
 版权所有Copyright © 2017-2021 By AiDex (http://www.aidex.vip) All rights reserved。
