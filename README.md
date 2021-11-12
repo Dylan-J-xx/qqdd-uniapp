@@ -1,7 +1,7 @@
 # RuoYi-Uniapp（若依-手机端）
 
 #### 介绍
-   若依-Ruoyi APP 移动解决方案，基于 uniapp+uView 封装的一套基础模版，开箱即用，一份代码多终端适配，支持H5+支付宝小程序+微信小程序+APP，实现了与ruoyi-vue后台完美对接的移动解决方案，可直接开始快速开发业务需求，全新UI设计，更多交互细节，我们将为您提供极致的交互体验体验，持续推出高质量的交互产品。
+    若依-Ruoyi APP 移动解决方案，基于 uniapp+uView 封装的一套基础模版，开箱即用，一份代码多终端适配，支持H5+支付宝小程序+微信小程序+APP，实现了与ruoyi-vue后台完美对接的移动解决方案，可直接开始快速开发业务需求，全新UI设计，更多交互细节，我们将为您提供极致的交互体验体验，持续推出高质量的交互产品。
 
     如果对您有帮助，您可以点右上角 “Star” 收藏一下 ，获取第一时间更新，谢谢！
 
@@ -64,5 +64,13 @@
 7. 我们已经申请了相关的软件开发著作权和相关登记
 8. 不得将本软件应用于危害国家安全、荣誉和利益的行为，不能以任何形式用于非法为目的的行为。
 6. 需要在您的软件介绍明显位置说明出处：举例：本软件基于Ruoyi-Uniapp手机端
+
+#### 关于我们
+
+   我们擅长UI、前端开发、后端架构，有一颗热爱开源的心，致力于打造企业级的通用产品设计UI体系
+让项目或者更直观，更高效、更简单，未来将持续关注UI交互，持续推出高质量的交互产品。
+<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
+<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
+<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
 
 版权所有Copyright © 2017-2021 By AiDex (http://www.aidex.vip) All rights reserved。
