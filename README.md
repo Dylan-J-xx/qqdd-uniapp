@@ -71,5 +71,7 @@
 或者更直观，更高效、更简单，未来将持续关注UI交互，持续推出高质量的交互产品。
 ######
 <img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
+<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
+<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
 
 版权所有Copyright © 2017-2021 By AiDex (http://www.aidex.vip) All rights reserved。
