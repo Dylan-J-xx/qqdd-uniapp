@@ -5,17 +5,9 @@
 
     如果对您有帮助，您可以点右上角 “Star” 收藏一下 ，获取第一时间更新，谢谢！
 
+#### 快速体验
 
-#### 软件架构
-软件架构说明
-
-## 快速体验
-
-1、H5 APP 端访问地址：<a href="https://demo.jeesite.com/app" target="blank">https://demo.jeesite.com/app</a> （最新演示）
-<br>&nbsp; &nbsp; &nbsp; 获得H5最佳体验，操作方法：Chrome 为例，在浏览器上按 F12 打开“开发者工具”，点击该工具左上角第二个按钮
-“Toggle device toolbar”，显示“切换设备工具栏”，然后在该工具栏上点击“Responsive”下拉选择“iPhone6/7/8”，再按“F5”刷新页面，即可。
-
-2、微信小程序端：通过**微信**扫码（最佳体验，但不是最新演示，更新延迟）<br><br>
+2、微信小程序端：通过**微信**扫码<br><br>
 <img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
 
 #### 如何使用uni-app端
