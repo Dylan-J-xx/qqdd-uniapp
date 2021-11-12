@@ -9,6 +9,14 @@
 #### 软件架构
 软件架构说明
 
+## 快速体验
+
+1、H5 APP 端访问地址：<a href="https://demo.jeesite.com/app" target="blank">https://demo.jeesite.com/app</a> （最新演示）
+<br>&nbsp; &nbsp; &nbsp; 获得H5最佳体验，操作方法：Chrome 为例，在浏览器上按 F12 打开“开发者工具”，点击该工具左上角第二个按钮
+“Toggle device toolbar”，显示“切换设备工具栏”，然后在该工具栏上点击“Responsive”下拉选择“iPhone6/7/8”，再按“F5”刷新页面，即可。
+
+2、微信小程序端：通过**微信**扫码（最佳体验，但不是最新演示，更新延迟）<br><br>
+<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
 
 #### 如何使用uni-app端
 
@@ -53,13 +61,16 @@
 * <a href="https://uviewui.com/components/intro.html" target="blank">uView 组件文档</a>
 * <a href="https://uviewui.com/js/intro.html" target="blank">uView JS 文档</a>
 
-#### 版权须知
+#### 授权许可协议条款
 
-1. 允许个人学习研究使用，支持二次开发，允许商业用途（仅限自运营）。
-2. 允许商业用途，但仅限自运营，如果商用必须保留版权信息，望自觉遵守。
-3. 不允许对程序代码以任何形式任何目的的再发行或出售，否则将追究侵权者法律责任。
-
-
-本项目包含的第三方源码和二进制文件之版权信息另行标注。
+1. Ruoyi-Uniapp采用GPL3.0开源协议协议。
+2. 代码可用于个人项目等接私活或企业项目脚手架使用，Ruoyi-Uniapp开源版完全免费。
+3. 二次开发如用于商业性质或开源竞品请先联系群主审核。
+4. 允许进行商用，但是不允许二次开源出来并进行收费，否则将追究侵权者法律责任。
+5. 请不要删除和修改Ruoyi-Uniapp源码头部的版权与作者声明及出处。
+6. 不得进行简单修改包装声称是自己的项目。
+7. 我们已经申请了相关的软件开发著作权和相关登记
+8. 不得将本软件应用于危害国家安全、荣誉和利益的行为，不能以任何形式用于非法为目的的行为。
+6. 需要在您的软件介绍明显位置说明出处：举例：本软件基于Ruoyi-Uniapp手机端
 
 版权所有Copyright © 2017-2021 By AiDex (http://www.aidex.vip) All rights reserved。
