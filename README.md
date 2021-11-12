@@ -38,26 +38,20 @@
     5. 打开微信开发者工具 导入 打包完成的项目
     6. 检查没有运行错误，在右上方上传小程序
 
+## uniapp知识
 
-#### 安装教程
+1. <a href="https://uniapp.dcloud.io/README" target="blank">uni-app介绍</a>
+2. <a href="https://ke.qq.com/course/3169971" target="blank">uni-app 官方视频教程</a>
+3. <a href="https://www.dcloud.io/hbuilderx.html" target="blank">uni-app开发工具 HBuilderX 下载及使用说明</a>
+4. <a href="http://ask.dcloud.net.cn/article/35657" target="blank">uni-app是什么？能解决什么问题</a>
+5. <a href="https://uniapp.dcloud.io/vue-basics" target="blank">Vue.js相关文档、视频教程</a>
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 技术手册
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
+* <a href="https://uniapp.dcloud.io/collocation/pages" target="blank">uni-app 框架文档</a>
+* <a href="https://uniapp.dcloud.io/component/README" target="blank">uni-app 组件文档</a>
+* <a href="https://uviewui.com/components/intro.html" target="blank">uView 组件文档</a>
+* <a href="https://uviewui.com/js/intro.html" target="blank">uView JS 文档</a>
 
 #### 版权须知
 
