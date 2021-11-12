@@ -43,29 +43,10 @@
 
 <table>
     <tr>
-        <td><img src="https://images.gitee.com/uploads/images/2021/1112/184344_b519b98b_9700683.png" width="655" height="378"/></td>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0923/234748_170e4ee7_9700683.png"/></td>
+        <td><img src="https://images.gitee.com/uploads/images/2021/1112/184344_b519b98b_9700683.png" width="445" height="800"/></td>
+        <td><img src="https://images.gitee.com/uploads/images/2021/0923/234748_170e4ee7_9700683.png" width="445" height="800"/></td>
     </tr>
-    <tr>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0911/184041_c4d1f1aa_9700683.png"/></td>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0911/184055_0cf08e45_9700683.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0911/184110_2e6df64f_9700683.png"/></td>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0911/184125_3d5bdddf_9700683.png"/></td>
-    </tr>	 
-    <tr>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0911/184139_092a8f07_9700683.png"/></td>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0922/225255_f8710fb3_9700683.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0911/184210_ffa2880b_9700683.png"/></td>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0911/184223_8f57f5f0_9700683.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0911/184238_5cb3e09e_9700683.png"/></td>
-        <td><img src="https://images.gitee.com/uploads/images/2021/0911/184256_5bc77bff_9700683.png"/></td>
-    </tr>
+    
 </table>
 
 #### uniapp知识
