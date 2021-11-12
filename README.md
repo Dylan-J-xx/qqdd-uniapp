@@ -70,8 +70,7 @@
 &nbsp; &nbsp; 我们擅长UI、前端开发、后端架构，有一颗热爱开源的心，致力于打造企业级的通用产品设计UI体系让项目
 或者更直观，更高效、更简单，未来将持续关注UI交互，持续推出高质量的交互产品。
 ######
-<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >&nbsp; &nbsp; &nbsp; 
-<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >&nbsp; &nbsp; &nbsp; 
-<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
+<img src="http://aidex.vip/assets/img/wx.jpg" width="220" height="220" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<img src="http://aidex.vip/assets/img/GZH.jpg" width="220" height="220" >&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; 
 
 版权所有Copyright © 2017-2021 By AiDex (http://www.aidex.vip) All rights reserved。
