@@ -43,7 +43,7 @@
 
 <table  border="10">
     <tr>
-        <td><img src="https://images.gitee.com/uploads/images/2021/1112/184344_b519b98b_9700683.png" width="300" height="650"/>&nbsp;</td>
+        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/184344_b519b98b_9700683.png" width="300" height="650"/></td>
         <td><img src="https://images.gitee.com/uploads/images/2021/1112/184344_b519b98b_9700683.png" width="300" height="650"/>&nbsp;&nbsp;&nbsp;</td>
         <td><img src="https://images.gitee.com/uploads/images/2021/1112/184344_b519b98b_9700683.png" width="300" height="650"/>&nbsp;&nbsp;&nbsp;</td>
     </tr>
