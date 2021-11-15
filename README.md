@@ -16,7 +16,7 @@
 
     1. 首先下载HBuilderX并安装，地址：https://www.dcloud.io/hbuilderx.html
     2. 打开HBuilderX -> 顶部菜单栏 -> 文件 -> 导入 -> 从本地目录导入 -> 选择uniapp端项目目录
-    3. 找到config.js文件，找到里面的apiUrl项，填入已搭建的后端url地址
+    3. 找到common/config.js文件，找到里面的apiUrl项，填入已搭建的后端url地址
     4. 打开manifest.json文件，选择微信小程序配置，填写小程序的appid
 
 ##### 二、本地调试
@@ -38,6 +38,9 @@
     5. 打开微信开发者工具 导入 打包完成的项目
     6. 检查没有运行错误，在右上方上传小程序
 
+##### 5、后端代码适配ruoyi-vue
+
+    1. 可以启动后端，直接访问http://aidex.vip的公共服务，如果要自己适配，请将doc目录下的代码放到项目中即可。
 #### 界面截图
 
 
