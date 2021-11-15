@@ -7,8 +7,8 @@
 
 #### 快速体验
 
-2、微信小程序端：通过**微信**扫码<br><br>
-<img src="https://jeesite.com/assets/images/wx_app.jpg" width="220" height="220" >
+2、微信小程序端：扫码访问<br><br>
+<img src="https://images.gitee.com/uploads/images/2021/1115/214722_20aaf4c8_9700683.jpeg" width="220" height="220" >
 
 #### 如何使用uni-app端
 
