@@ -47,43 +47,7 @@
 #### 界面截图
 
 
-<table>
-    <tr>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/184344_b519b98b_9700683.png" width="300" height="550"/></td>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223144_43bc09a8_9700683.png" width="300" height="550"/></td>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223205_fd09aab2_9700683.png" width="300" height="550"/></td>
-    </tr>
-    <tr>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223528_bd934103_9700683.png" width="300" height="550"/></td>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223553_5d4f27a1_9700683.png" width="300" height="550"/></td>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223612_8ca07db6_9700683.png" width="300" height="550"/></td>
-    </tr>
-    <tr>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223248_7d40c45c_9700683.png" width="300" height="550"/></td>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223306_a6be218d_9700683.png" width="300" height="550"/></td>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223324_a3415319_9700683.png" width="300" height="550"/></td>
-    </tr>
-    <tr>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223405_a7fd6593_9700683.png" width="300" height="550"/></td>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223424_398ebcde_9700683.png" width="300" height="550"/></td>
-        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223501_db695cd4_9700683.png" width="300" height="550"/></td>
-    </tr>
-</table>
 
-#### uniapp知识
-
-1. <a href="https://uniapp.dcloud.io/README" target="blank">uni-app介绍</a>
-2. <a href="https://ke.qq.com/course/3169971" target="blank">uni-app 官方视频教程</a>
-3. <a href="https://www.dcloud.io/hbuilderx.html" target="blank">uni-app开发工具 HBuilderX 下载及使用说明</a>
-4. <a href="http://ask.dcloud.net.cn/article/35657" target="blank">uni-app是什么？能解决什么问题</a>
-5. <a href="https://uniapp.dcloud.io/vue-basics" target="blank">Vue.js相关文档、视频教程</a>
-
-#### 技术手册
-
-* <a href="https://uniapp.dcloud.io/collocation/pages" target="blank">uni-app 框架文档</a>
-* <a href="https://uniapp.dcloud.io/component/README" target="blank">uni-app 组件文档</a>
-* <a href="https://uviewui.com/components/intro.html" target="blank">uView 组件文档</a>
-* <a href="https://uviewui.com/js/intro.html" target="blank">uView JS 文档</a>
 
 #### 授权许可协议条款
 
