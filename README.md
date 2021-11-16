@@ -74,7 +74,7 @@
 
  **AiDex Sharp 快速开发平台** 基于著名的开源项目“ **若依-RuoYi-Vue** ”改造而成，追求 **极致的UI交互体验** 和 **快速开发** ，一切向 **效率** 看齐， **重构优化** 后端的代码，对前端页面进行了 **美化** 。 **我们将持续升级，持续完善，欢迎友友们收藏和点赞** 。
 
-* [打开Aidex Sharp](https://gitee.com/y_project/RuoYi-Vue)
+* [打开Aidex Sharp](https://gitee.com/big-hedgehog/aidex-sharp)
 
 ## 后台系统截图
 
