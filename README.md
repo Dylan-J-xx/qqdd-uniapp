@@ -76,6 +76,9 @@
 
 * [打开Aidex Sharp](https://gitee.com/big-hedgehog/aidex-sharp)
 
+官方QQ群
+Aidex Sharp快速开发平台3群 208511180 使用问题请入群由专人负责简答
+
 ## 后台系统截图
 
 <table>
