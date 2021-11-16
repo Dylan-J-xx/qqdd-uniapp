@@ -5,6 +5,8 @@
 
     如果对您有帮助，您可以点右上角 “Star” 收藏一下 ，获取第一时间更新，谢谢！刚刚开源，BUG修复中
 
+* 感谢[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
+
 #### 快速体验
 
 2、微信小程序端：扫码访问（目前只能用用户名密码方式登录，用户名：admin 密码：admin123）<br><br>
