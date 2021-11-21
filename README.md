@@ -13,6 +13,20 @@
 2、微信小程序端：扫码访问（目前只能用用户名密码方式登录，用户名：admin 密码：admin123）<br><br>
 <img src="https://images.gitee.com/uploads/images/2021/1115/214722_20aaf4c8_9700683.jpeg" width="220" height="220" >
 
+#### 我的另一个项目：
+
+ **AiDex Sharp 快速开发平台** 基于著名的开源项目“ **若依-RuoYi-Vue** ”改造而成，追求 **极致的UI交互体验** 和 **快速开发** ，一切向 **效率** 看齐， **重构优化** 后端的代码，对前端页面进行了 **美化** 。 **我们将持续升级，持续完善，欢迎友友们收藏和点赞** 。
+
+* [打开Aidex Sharp](https://gitee.com/big-hedgehog/aidex-sharp)
+
+<table>
+    <tr>
+        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/184344_b519b98b_9700683.png" width="300" height="480"/></td>
+        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223144_43bc09a8_9700683.png" width="300" height="480"/></td>
+        <td style="border:5px"><img src="https://images.gitee.com/uploads/images/2021/1112/223205_fd09aab2_9700683.png" width="300" height="480"/></td>
+    </tr>
+</table>
+
 #### 如何使用uni-app端
 
 ##### 一、导入uniapp项目
