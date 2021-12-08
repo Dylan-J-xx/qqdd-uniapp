@@ -11,7 +11,8 @@
 #### 请大家支持一下我
   开源中国发起年度开源软件评选为了让我们的Ruoyi  aidex Sharp平台走的更久更远，请大家为我投个票，感谢，[点我投票](https://www.oschina.net/project/top_cn_2021?id=590)
  投票二维码：
-  ![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211208202901.jpg)
+  
+<img src="(%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211208202901.jpg)" width="220" height="220" >&nbsp; &nbsp; &nbsp;&nbsp;
 
 #### 快速体验
 
