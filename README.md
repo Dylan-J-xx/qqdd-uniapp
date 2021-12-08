@@ -8,6 +8,11 @@
 * 感谢[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
 * 适配ruoyi-vue后端，将doc下的java类放进去即可
 
+#### 请大家支持一下我
+  开源中国发起年度开源软件评选为了让我们的Ruoyi  aidex Sharp平台走的更久更远，请大家为我投个票，感谢，[点我投票](https://www.oschina.net/project/top_cn_2021?id=590)
+ 投票二维码：
+  ![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211208202901.jpg)
+
 #### 快速体验
 
 2、微信小程序端：扫码访问（目前只能用用户名密码方式登录，用户名：admin 密码：admin123）<br><br>
