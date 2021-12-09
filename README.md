@@ -5,6 +5,7 @@
 
     如果对您有帮助，您可以点右上角 “Star” 收藏一下 ，获取第一时间更新，谢谢！刚刚开源，BUG修复中
 
+* 感谢jeesite，项目参考自[JeeSite Mobile Uni-App](https://gitee.com/thinkgem/jeesite4-uniapp)
 * 感谢[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
 * 适配ruoyi-vue后端，将doc下的java类放进去即可
 
