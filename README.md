@@ -162,4 +162,4 @@ Aidex Sharp快速开发平台3群 208511180 使用问题请入群由专人负责
 <img src="https://images.gitee.com/uploads/images/2021/1112/114207_bb1bac92_9700683.jpeg" width="220" height="220" >&nbsp; &nbsp; &nbsp;&nbsp; 
 <img src="https://images.gitee.com/uploads/images/2021/1115/164243_d4e0d61d_9700683.png" width="220" height="220" >&nbsp; &nbsp; &nbsp;&nbsp;
 
-版权所有Copyright © 2017-2021 By AiDex (http://www.aidex.vip) All rights reserved。
+版权所有Copyright © 2017-2021 By AiDex (http://www.aidex.vip) All rights reserved
