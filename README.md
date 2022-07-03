@@ -5,6 +5,17 @@
 
     如果对您有帮助，您可以点右上角 “Star” 收藏一下 ，获取第一时间更新，谢谢！刚刚开源，BUG修复中
 
+* 感谢jeesite，项目参考自[JeeSite Mobile Uni-App](https://gitee.com/thinkgem/jeesite4-uniapp)
+* 感谢[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
+* 适配ruoyi-vue后端，将doc下的java类放进去即可
+
+
+#### 快速体验
+
+2、微信小程序端：扫码访问（目前只能用用户名密码方式登录，用户名：admin 密码：admin123）<br><br>
+<img src="https://images.gitee.com/uploads/images/2021/1115/214722_20aaf4c8_9700683.jpeg" width="220" height="220" >
+
+
 ## 基于RuoYi修改的美化皮肤的样式地址
 
 - [🎉 RuoYi + vue2.x + Max + element-ui（vue2.x 支持 PC、平板、手机）](http://82.157.44.212:8091/index)
@@ -17,16 +28,6 @@
 
 - [🎉 RuoYi + vue3.x + element-plus + uniapp2（vue3.x 支持 PC、平板、手机）](http://82.157.44.212:8094/#/)
 
-
-* 感谢jeesite，项目参考自[JeeSite Mobile Uni-App](https://gitee.com/thinkgem/jeesite4-uniapp)
-* 感谢[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
-* 适配ruoyi-vue后端，将doc下的java类放进去即可
-
-
-#### 快速体验
-
-2、微信小程序端：扫码访问（目前只能用用户名密码方式登录，用户名：admin 密码：admin123）<br><br>
-<img src="https://images.gitee.com/uploads/images/2021/1115/214722_20aaf4c8_9700683.jpeg" width="220" height="220" >
 
 #### 我的另一个项目：
 
