@@ -5,6 +5,19 @@
 
     如果对您有帮助，您可以点右上角 “Star” 收藏一下 ，获取第一时间更新，谢谢！刚刚开源，BUG修复中
 
+## 基于RuoYi修改的美化皮肤的样式地址
+
+- [🎉 RuoYi + vue2.x + Max + element-ui（vue2.x 支持 PC、平板、手机）](http://82.157.44.212:8091/index)
+
+- [🎉 RuoYi + vue3.x + Max + element-plus（vue3.x 支持 PC、平板、手机）](http://82.157.44.212:8090/index)
+
+- [🎉 RuoYi + vue2.x + Max + element-ui + Cloud（vue2.x 支持 PC、平板、手机）](http://82.157.44.212:8093/index)
+
+- [🎉 RuoYi + vue3.x + Max + element-plus + Cloud（vue3.x 支持 PC、平板、手机）](http://82.157.44.212:8092/index)
+
+- [🎉 RuoYi + vue3.x + element-plus + uniapp2（vue3.x 支持 PC、平板、手机）](http://82.157.44.212:8094/#/)
+
+
 * 感谢jeesite，项目参考自[JeeSite Mobile Uni-App](https://gitee.com/thinkgem/jeesite4-uniapp)
 * 感谢[RuoYi-Vue](https://gitee.com/y_project/RuoYi-Vue)
 * 适配ruoyi-vue后端，将doc下的java类放进去即可
