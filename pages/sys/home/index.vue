@@ -22,12 +22,12 @@ export default {
 	},
 	data() {
 		return {
-			show: false,
-			head: '/static/aidex/images/head.png',
+			show: true,
+			head: '',
 			imgList: [
-				{image: '/static/aidex/banner/banner01.png'},
-				{image: '/static/aidex/banner/banner02.png'}, 
-				{image: '/static/aidex/banner/banner03.png'}
+				{image: ''},
+				{image: ''}, 
+				{image: ''}
 			],
 			todoCount: 3
 		};

@@ -1,7 +1,7 @@
 {
-    "name" : "aidexapp",
-    "appid" : "__UNI__3570A56",
-    "description" : "aidex敏捷开发平台",
+    "name" : "app",
+    "appid" : "__UNI__EDAAE5E",
+    "description" : "",
     "versionName" : "1.8.4",
     "versionCode" : "100",
     "transformPx" : false,
@@ -25,7 +25,8 @@
         "nvueCompiler" : "uni-app",
         "compilerVersion" : 3,
         "modules" : {
-            "Payment" : {}
+            "Payment" : {},
+            "OAuth" : {}
         },
         "distribute" : {
             "android" : {
@@ -42,6 +43,7 @@
                     "<uses-permission android:name=\"android.permission.CHANGE_WIFI_STATE\"/>",
                     "<uses-permission android:name=\"android.permission.FLASHLIGHT\"/>",
                     "<uses-permission android:name=\"android.permission.GET_ACCOUNTS\"/>",
+                    "<uses-permission android:name=\"android.permission.INTERNET\"/>",
                     "<uses-permission android:name=\"android.permission.MODIFY_AUDIO_SETTINGS\"/>",
                     "<uses-permission android:name=\"android.permission.MOUNT_UNMOUNT_FILESYSTEMS\"/>",
                     "<uses-permission android:name=\"android.permission.READ_LOGS\"/>",
@@ -50,6 +52,7 @@
                     "<uses-permission android:name=\"android.permission.VIBRATE\"/>",
                     "<uses-permission android:name=\"android.permission.WAKE_LOCK\"/>",
                     "<uses-permission android:name=\"android.permission.WRITE_CONTACTS\"/>",
+                    "<uses-permission android:name=\"android.permission.WRITE_EXTERNAL_STORAGE\"/>",
                     "<uses-permission android:name=\"android.permission.WRITE_SETTINGS\"/>"
                 ],
                 "abiFilters" : [ "armeabi-v7a", "arm64-v8a" ]
@@ -67,6 +70,12 @@
                         "UniversalLinks" : ""
                     },
                     "appleiap" : {}
+                },
+                "oauth" : {
+                    "weixin" : {
+                        "appid" : "wxdf11ec8626d8a2cb",
+                        "UniversalLinks" : ""
+                    }
                 }
             },
             "icons" : {
@@ -113,7 +122,7 @@
     },
     "quickapp" : {},
     "mp-weixin" : {
-        "appid" : "wx04dd806ca2843cc1",
+        "appid" : "wx513a8d7b3ebb2718",
         "setting" : {
             "urlCheck" : true,
             "es6" : false,

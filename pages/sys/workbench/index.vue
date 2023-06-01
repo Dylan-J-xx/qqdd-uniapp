@@ -8,19 +8,19 @@
 					<view class="home-icon icon-color01">
 						<i class="iconfont icon-qingjia"></i>
 					</view>
-					<view class="grid-text">请假申请</view>
+					<view class="grid-text">服务申请</view>
 				</u-grid-item>
-				<u-grid-item :index="1" @click="navTo('')">
+				<u-grid-item :index="1" @click="navTo('/pages/sys/workbench/chat')">
 					<view class="home-icon icon-color04">
 						<i class="iconfont icon-hetongguanli"></i>
 					</view>
-					<view class="grid-text">合同申请</view>
+					<view class="grid-text">chatGPT</view>
 				</u-grid-item>
 				<u-grid-item :index="2" @click="navTo('')">
 					<view class="home-icon icon-color03">
 						<i class="iconfont icon-chucha"></i>
 					</view>
-					<view class="grid-text">出差申请</view>
+					<view class="grid-text">航班查询</view>
 				</u-grid-item>
 				<u-grid-item :index="2" @click="navTo('')">
 					<view class="home-icon icon-color12">
@@ -36,9 +36,9 @@
 				</u-grid-item>
 				<u-grid-item  @click="navTo('')">
 					<view class="home-icon icon-color05">
-						<i class="iconfont icon-huiyishi"></i>
+						<i class="iconfont icon-xinwen"></i>
 					</view>
-					<view class="grid-text">会议室</view>
+					<view class="grid-text">新闻</view>
 				</u-grid-item>
 				<u-grid-item  @click="navTo('/pages/sys/workbench/install')">
 					<view class="home-icon icon-color13">
@@ -48,48 +48,48 @@
 				</u-grid-item>
 			</u-grid>
 		</view>
-		<view class="workbench-title">日常办公</view>
+		<view class="workbench-title">生活服务</view>
 		<view class="toolbar">
 			<u-grid class="grid" :col="4" :border="false">
 				<u-grid-item :index="0" @click="navTo('')" >
 					<view class="home-icon icon-color04">
 						<i class="iconfont icon-yongche"></i>
 					</view>
-					<view class="grid-text">用车</view>
+					<view class="grid-text">交通查询</view>
 				</u-grid-item>
 				<u-grid-item :index="2" @click="navTo('')">
 					<view class="home-icon icon-color03">
-						<i class="iconfont icon-jiabanshenqing"></i>
+						<i class="iconfont icon-search"></i>
 					</view>
-					<view class="grid-text">加班</view>
+					<view class="grid-text">快递查询</view>
 				</u-grid-item>
 				<u-grid-item :index="2" @click="navTo('')">
 					<view class="home-icon icon-color12">
-						<i class="iconfont icon-kaoqinchuqin"></i>
+						<i class="iconfont icon-shouji"></i>
 					</view>
-					<view class="grid-text">考勤</view>
+					<view class="grid-text">生活黄页</view>
 				</u-grid-item>
 				<u-grid-item  @click="navTo('')">
 					<view class="home-icon icon-color04">
 						<i class="iconfont icon-haocaifei"></i>
 					</view>
-					<view class="grid-text">耗材</view>
+					<view class="grid-text">理财服务</view>
 				</u-grid-item>
 				<u-grid-item  @click="navTo('')">
 					<view class="home-icon icon-color01">
 						<i class="iconfont icon-gongwujiedai"></i>
 					</view>
-					<view class="grid-text">接待</view>
+					<view class="grid-text">爱心服务</view>
 				</u-grid-item>
 				<u-grid-item  @click="navTo('')">
 					<view class="home-icon icon-color04">
 						<i class="iconfont icon-baoming"></i>
 					</view>
-					<view class="grid-text">报名</view>
+					<view class="grid-text">记事本</view>
 				</u-grid-item>
 			</u-grid>
 		</view>
-		<view class="workbench-title">财务报销</view>
+<!-- 		<view class="workbench-title">财务报销</view>
 		<view class="toolbar">
 			<u-grid class="grid" :col="4" :border="false">
 				<u-grid-item :index="0" @click="navTo('')" >
@@ -117,7 +117,7 @@
 					<view class="grid-text">用章申请</view>
 				</u-grid-item>
 			</u-grid>
-		</view>
+		</view> -->
 		<u-divider>已经到底了</u-divider>
 	</view>
 	
@@ -134,11 +134,11 @@ export default {
 	data() {
 		return {
 			show: false,
-			head: '/static/aidex/images/head.png',
+			head: '',
 			imgList: [
-				{image: '/static/aidex/banner/banner01.png'},
-				{image: '/static/aidex/banner/banner02.png'}, 
-				{image: '/static/aidex/banner/banner03.png'}
+				{image: ''},
+				{image: ''}, 
+				{image: ''}
 			],
 			todoCount: 3
 		};

@@ -1,0 +1,32 @@
+{
+  "appid": "wx513a8d7b3ebb2718",
+  "compileType": "miniprogram",
+  "libVersion": "2.30.4",
+  "miniprogramRoot": "",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "setting": {
+    "coverView": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "enhance": true,
+    "showShadowRootInWxmlPanel": true,
+    "packNpmRelationList": [],
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  },
+  "srcMiniprogramRoot": "unpackage/dist/dev/mp-weixin/",
+  "projectname": "QQDD-App",
+  "cloudfunctionTemplateRoot": "cloudfunctionTemplate/"
+}

@@ -85,9 +85,9 @@
 						}
 						if (res.code == '200') {
 							setTimeout(() => {
-								uni.reLaunch({
-									url: '/pages/sys/home/index'
-								});
+									uni.reLaunch({
+											url: '/pages/sys/msg/index'
+									});
 							}, 500);
 						}
 					});

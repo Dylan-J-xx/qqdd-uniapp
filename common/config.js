@@ -24,6 +24,6 @@ const config = {
 }
 
 // 设置后台接口服务的基础地址
-config.baseUrl = 'https://aidex.vip/api';
+config.baseUrl = 'http://localhost/dev-api';
 
 export default config;

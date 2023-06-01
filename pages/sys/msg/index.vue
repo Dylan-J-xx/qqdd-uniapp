@@ -37,14 +37,14 @@
 							<i class="iconfont icon-msg-system"></i>
 						</view>
 						<uni-view  class="uni-media-list-body">
-							<uni-view class="uni-media-list-text-top"><span>日常办公</span><span style="font-size: 26rpx;color: #999999;">11月07日</span></uni-view>
+							<uni-view class="uni-media-list-text-top"><span>服务提醒</span><span style="font-size: 26rpx;color: #999999;">11月07日</span></uni-view>
 							<uni-view class="uni-media-list-text-bottom">
-								<uni-text><span>王梓涵提交的“请假申请”待你审批</span></uni-text>
+								<uni-text><span>您申请的体检服务已通过</span></uni-text>
 							</uni-view>
 						</uni-view>
 					</uni-view>
 				</view>
-				<view class="uni-list-cell" @click="navTo('/pages/sys/msg/list-item')">
+<!-- 				<view class="uni-list-cell" @click="navTo('/pages/sys/msg/list-item')">
 					<uni-view class="uni-media-list">
 						<view class="home-icon icon-color12">
 							<i class="iconfont icon-baoxiao"></i>
@@ -56,7 +56,7 @@
 							</uni-view>
 						</uni-view>
 					</uni-view>
-				</view>
+				</view> -->
 				<view class="uni-list-cell" @click="navTo('/pages/sys/msg/list-item')">
 					<uni-view class="uni-media-list">
 						<view class="home-icon icon-color04">

@@ -9,7 +9,6 @@ export default {
 		home: '消息',
 		workbench: '工作台',
 		user: '我的',
-		book: '通讯录',
 		msg: '消息',
 	},
 	login: {
@@ -34,8 +33,6 @@ export default {
 	},
 	msg: {
 		title: '消息'
-	},
-	book: {
-		title: '通讯录'
 	}
+
 }

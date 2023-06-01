@@ -8,7 +8,7 @@
 					</view>
 				<view class="info" style="display: flex;justify-content: space-between;">
 					<view>
-						<view class="username">管理员</view>
+						<view class="username">张三</view>
 						<view class="usercode">普通会员</view>
 					</view>
 					<view class="sign-in-images"><image src="/static/aidex/images/sign-in.png"></image></view>
@@ -16,12 +16,12 @@
 			</view>
 			<u-row class="userinfo-topbox" gutter="16" justify="center">
 				<u-col span="4" text-align="center">
-					<view class="number">9,999<em>元</em></view>
-					<view>余额</view>
+					<view class="number">9,999<em>分</em></view>
+					<view>积分</view>
 				</u-col>
 				<u-col span="4" text-align="center"  @click="navTo('/pages/sys/application/recharge')">
 					<view><u-icon size="28px" color="#ffffff" name="rmb-circle"></u-icon></view>
-					<view>充值</view>
+					<view>积分兑换</view>
 				</u-col>
 				<u-col span="4" text-align="center" @click="navTo('/pages/sys/application/balance-details')">
 					<view>
